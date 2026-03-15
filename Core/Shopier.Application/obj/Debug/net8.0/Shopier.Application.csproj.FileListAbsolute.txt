@@ -1,0 +1,15 @@
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Application\bin\Debug\net8.0\Shopier.Application.deps.json
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Application\bin\Debug\net8.0\Shopier.Application.dll
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Application\bin\Debug\net8.0\Shopier.Application.pdb
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Application\bin\Debug\net8.0\Shopier.Domain.dll
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Application\bin\Debug\net8.0\Shopier.Domain.pdb
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Application\obj\Debug\net8.0\Shopier.Application.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Application\obj\Debug\net8.0\Shopier.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Application\obj\Debug\net8.0\Shopier.Application.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Application\obj\Debug\net8.0\Shopier.Application.AssemblyInfo.cs
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Application\obj\Debug\net8.0\Shopier.Application.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Application\obj\Debug\net8.0\Shopier..8F219307.Up2Date
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Application\obj\Debug\net8.0\Shopier.Application.dll
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Application\obj\Debug\net8.0\refint\Shopier.Application.dll
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Application\obj\Debug\net8.0\Shopier.Application.pdb
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Application\obj\Debug\net8.0\ref\Shopier.Application.dll

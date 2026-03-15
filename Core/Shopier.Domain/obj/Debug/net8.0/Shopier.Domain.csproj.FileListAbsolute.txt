@@ -1,0 +1,11 @@
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Domain\bin\Debug\net8.0\Shopier.Domain.deps.json
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Domain\bin\Debug\net8.0\Shopier.Domain.dll
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Domain\bin\Debug\net8.0\Shopier.Domain.pdb
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Domain\obj\Debug\net8.0\Shopier.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Domain\obj\Debug\net8.0\Shopier.Domain.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Domain\obj\Debug\net8.0\Shopier.Domain.AssemblyInfo.cs
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Domain\obj\Debug\net8.0\Shopier.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Domain\obj\Debug\net8.0\Shopier.Domain.dll
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Domain\obj\Debug\net8.0\refint\Shopier.Domain.dll
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Domain\obj\Debug\net8.0\Shopier.Domain.pdb
+C:\Users\alper\source\repos\Shopier\Core\Shopier.Domain\obj\Debug\net8.0\ref\Shopier.Domain.dll
