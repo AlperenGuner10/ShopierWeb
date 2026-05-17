@@ -67,7 +67,6 @@ C:\Users\alper\source\repos\Shopier\Presentation\Shopier.WebApi\obj\Debug\net8.0
 C:\Users\alper\source\repos\Shopier\Presentation\Shopier.WebApi\obj\Debug\net8.0\Shopier.WebApi.AssemblyInfoInputs.cache
 C:\Users\alper\source\repos\Shopier\Presentation\Shopier.WebApi\obj\Debug\net8.0\Shopier.WebApi.AssemblyInfo.cs
 C:\Users\alper\source\repos\Shopier\Presentation\Shopier.WebApi\obj\Debug\net8.0\Shopier.WebApi.csproj.CoreCompileInputs.cache
-C:\Users\alper\source\repos\Shopier\Presentation\Shopier.WebApi\obj\Debug\net8.0\Shopier.WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\alper\source\repos\Shopier\Presentation\Shopier.WebApi\obj\Debug\net8.0\Shopier.WebApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\alper\source\repos\Shopier\Presentation\Shopier.WebApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\alper\source\repos\Shopier\Presentation\Shopier.WebApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
@@ -84,4 +83,3 @@ C:\Users\alper\source\repos\Shopier\Presentation\Shopier.WebApi\obj\Debug\net8.0
 C:\Users\alper\source\repos\Shopier\Presentation\Shopier.WebApi\obj\Debug\net8.0\Shopier.WebApi.pdb
 C:\Users\alper\source\repos\Shopier\Presentation\Shopier.WebApi\obj\Debug\net8.0\Shopier.WebApi.genruntimeconfig.cache
 C:\Users\alper\source\repos\Shopier\Presentation\Shopier.WebApi\obj\Debug\net8.0\ref\Shopier.WebApi.dll
-C:\Users\alper\source\repos\Shopier\Presentation\Shopier.WebApi\obj\Debug\net8.0\swae.build.ex.cache
